@@ -1,0 +1,21 @@
+{
+  "name": "atom-python-module",
+  "main": "./lib/atom-python-module",
+  "version": "0.0.1",
+  "description": "A simple package that will create a directory and an __init__.py, saving tens of seconds a year",
+  "keywords": [
+    "python", "atom"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-python-module:toggle"
+  },
+  "repository": "https://github.com/aeikenberry/atom-python-module",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "mkdirp": "^0.3.5",
+    "touch": "0.0.3"
+  }
+}
