@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "New Python Module",
-        "command": "atom-python-module:toggle"
+        "label": "New Python Package",
+        "command": "atom-python-package:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "New Python Module",
+          "label": "New Python Package",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "atom-python-module:toggle"
+              "command": "atom-python-package:toggle"
             }
           ]
         }
