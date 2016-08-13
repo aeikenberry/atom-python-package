@@ -8,7 +8,8 @@
     "atom"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-python-package:toggle"
+    "atom-workspace": "atom-python-package:toggle",
+    ".tree-view": "atom-python-package:toggleAtDir"
   },
   "repository": "https://github.com/aeikenberry/atom-python-package",
   "license": "MIT",

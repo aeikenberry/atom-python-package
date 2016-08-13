@@ -5,6 +5,12 @@
         "label": "New Python Package",
         "command": "atom-python-package:toggle"
       }
+    ],
+    ".tree-view .directory": [
+      {
+        "label": "New Python Package",
+        "command": "atom-python-package:toggleAtDir"
+      }
     ]
   },
   "menu": [
