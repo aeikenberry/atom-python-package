@@ -1,10 +1,11 @@
 {
   "name": "atom-python-module",
   "main": "./lib/atom-python-module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple package that will create a directory and an __init__.py, saving tens of seconds a year",
   "keywords": [
-    "python", "atom"
+    "python",
+    "atom"
   ],
   "activationCommands": {
     "atom-workspace": "atom-python-module:toggle"
