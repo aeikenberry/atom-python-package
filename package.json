@@ -1,7 +1,7 @@
 {
   "name": "atom-python-package",
   "main": "./lib/atom-python-package",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A simple package that will create a directory and an __init__.py, saving tens of seconds a year",
   "keywords": [
     "python",
